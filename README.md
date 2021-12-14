@@ -12,7 +12,7 @@ use append() to add new elements in the list
 ### Step 3:
 Get the input from the user using np.array()
 ### Step 4:
-result = value1*value2 it will multiply the array and print the putput
+result = value1*value2 it will multiply the array and print the output
 ### Step 5:
 End the program
 
